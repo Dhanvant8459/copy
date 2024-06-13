@@ -1,8 +1,8 @@
  cd desktop
 cd nmu
  git init
- git config --global user.name "kiranpatil9197"
-git config --global user.email "kiranspatil537@gmail.com"
+ git config --global user.name "Dhanvant8459"
+git config --global user.email "patil775700@gmail.com"
 git config --global user.email
  git config --global user.name
  git clone https://github.com/kiranpatil9197/KBCNMU.git
